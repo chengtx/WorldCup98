@@ -4,6 +4,8 @@
 This dataset is used to compared the performance difference between ELK and Splunk.
 http://ita.ee.lbl.gov/html/contrib/WorldCup.html
 
+For plain text log, the size of each entry is about 100B (0.1KB).
+
 
 Description
 This dataset consists of all the requests made to the 1998 World Cup Web site between April 30, 1998 and July 26, 1998. During this period of time the site received 1,352,804,107 requests.
