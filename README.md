@@ -1,3 +1,5 @@
+
+
 # WorldCup98
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -133,7 +135,7 @@ if DAY mod 7 = 5 then the log was collected on a Thursday;
 if DAY mod 7 = 6 then the log was collected on a Friday;
 if DAY mod 7 = 0 then the log was collected on a Saturday.
 For example, wc_day92_1.gz is the log file for day 92; since 92 mod 7 = 1 we know that this log was collected on a Sunday.
-The following is a list of all of the available binary log files:
+The following is a list of all of the available binary log files, located at http://ita.ee.lbl.gov/traces/WorldCup/:
 
 wc_day1_1.gz April 26, 1998 (empty file)
 wc_day2_1.gz April 27, 1998 (empty file)
